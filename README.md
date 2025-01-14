@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santheeppa</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santheeppa&label=Profile%20views&color=0e75b6&style=flat" alt="santheeppa" /> </p>
-
-- 🔭 I’m currently working on **CustomerServiceAI: Comparative Analysis of Automated vs Human Support Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
