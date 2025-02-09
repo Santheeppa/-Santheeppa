@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-<br>A passionate data science enthusiast with a recently completed diploma in data science.  Over the past 6 months, I've honed my skills in machine learning, data analysis, and predictive modelling, and I'm excited to apply these skills to real-world problems.<br>
+<br>A passionate data science enthusiast with a recently completed diploma in data science. I've honed my skills in machine learning, data analysis, and predictive modelling, and I'm excited to apply these skills to real-world problems.<br>
 
 
 ## 🌐 Socials:
