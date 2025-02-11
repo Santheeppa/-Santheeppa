@@ -1,33 +1,35 @@
 
-<h1 align="center">Hello World!, I'm Santheeppa</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=santheeppa&label=Profile%20views&color=0e75b6&style=flat" alt="santheeppa" /> </p>
-
+<h1 align="center">Hello World! I'm Santheeppa</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santheeppa&label=Profile%20views&color=0e75b6&style=flat" alt="santheeppa" />
+</p>
 
 ## 💫 About Me:
-<br>A aspiring **Data Scientist** passionate about transforming raw data into actionable insights. I love working on **machine learning, data visualization, and model deployment**, turning complex problems into impactful solutions. <br>
+An aspiring **Data Scientist** focused on transforming raw data into actionable insights. I specialize in machine learning, data visualization, and model deployment, with a passion for solving complex problems through data-driven approaches.
  
 
 ## 🔍 **Interests:**
-- Machine Learning.
-- Data Visualization.
-- Predictive Analytics.
+- Machine Learning and Predictive Modeling
+- Data Visualization and Analytics
+- Model Deployment and MLOps
+- Statistical Analysis and Interpretation
 
 ## 📊 **Projects:**  
-- 🩺 [**Prediabetes Risk Assessment**](https://github.com/Santheeppa/Prediabetes-Risk-Assessment) – Developed an ML model to predict early prediabetes risk using health data.  
-- 🏦 [**Banking Churn Predictor**](https://github.com/Santheeppa/Banking-Churn-Predictor) – Built a predictive model to identify customers likely to leave a bank, helping improve retention strategies.  
-- 📈 [**Future Value Insights (CLTV)**](https://github.com/Santheeppa/Future-Value-Insights-CLTV-) – Estimated customer lifetime value to optimize marketing and revenue strategies.  
-- 🎭 [**FeelFusion: Brand Sentiment Analyzer**](https://github.com/Santheeppa/FeelFusion-Brand_Sentiment_Analyzer) – Analyzed customer sentiment from reviews to monitor brand perception.   
+- 🩺 [**Prediabetes Risk Assessment**](https://github.com/Santheeppa/Prediabetes-Risk-Assessment) - Developed an ML model to predict early prediabetes risk using health data.
+  
+- 🏦 [**Banking Churn Predictor**](https://github.com/Santheeppa/Banking-Churn-Predictor) – Built a predictive model to identify customers likely to leave a bank, helping improve retention strategies.
+  
+- 📈 [**Future Value Insights (CLTV)**](https://github.com/Santheeppa/Future-Value-Insights-CLTV-) – Created a customer lifetime value estimation model to optimize marketing strategies and revenue forecasting.
+   
+- 🎭 [**FeelFusion: Brand Sentiment Analyzer**](https://github.com/Santheeppa/FeelFusion-Brand_Sentiment_Analyzer) – Developed an NLP-based sentiment analysis tool to monitor brand perception through customer reviews.   
 
-## 🚀 **Currently working on:** 
-- Deploying my end-to-end projects using **Streamlit**.  
+## 🚀 **Currently Focused on:** 
+- Deploying end-to-end ML projects using **Streamlit**
+- Enhancing my data analysis skills with **SQL** and **Excel**
+- Building a comprehensive portfolio of data science projects 
 
-## 🌱 **I'm currently learning**
-- 📌 **SQL**
-- 📌 **Excel**
-
-## 🎯 **Goal:**
-- To become a full-fledged **Data Scientist** and contribute to impactful industry projects.
+## 🎯 Professional Goal
+To become a full-fledged Data Scientist, leveraging my skills to drive impactful business decisions through data-driven solutions.
 
 ## 🤝 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santheeppa/)
