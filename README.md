@@ -29,7 +29,7 @@
 ## 🎯 **Goal:**
 - To become a full-fledged **Data Scientist** and contribute to impactful industry projects.
 
-## 📬 **Let’s Connect!**
+## 🤝 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santheeppa/)
 
 ## 💻 Tech Stack:
@@ -47,10 +47,6 @@
 </picture>
 
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
