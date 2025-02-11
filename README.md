@@ -14,10 +14,10 @@
 - Predictive Analytics.
 
 ## 📊 **Projects:**  
-- 🩺 **Prediabetes Risk Assessment** – Developed an ML model to predict early prediabetes risk using health data.  
-- 🏦 **Banking Churn Predictor** – Built a predictive model to identify customers likely to leave a bank, helping improve retention strategies.  
-- 📈 **Future Value Insights (CLTV)** – Estimated customer lifetime value to optimize marketing and revenue strategies.  
-- 🎭 **FeelFusion: Brand Sentiment Analyzer** – Analyzed customer sentiment from reviews to monitor brand perception.   
+- 🩺 [**Prediabetes Risk Assessment**](https://github.com/Santheeppa/Prediabetes-Risk-Assessment) – Developed an ML model to predict early prediabetes risk using health data.  
+- 🏦 [**Banking Churn Predictor**](https://github.com/Santheeppa/Banking-Churn-Predictor) – Built a predictive model to identify customers likely to leave a bank, helping improve retention strategies.  
+- 📈 [**Future Value Insights (CLTV)**](https://github.com/Santheeppa/Future-Value-Insights-CLTV-) – Estimated customer lifetime value to optimize marketing and revenue strategies.  
+- 🎭 [**FeelFusion: Brand Sentiment Analyzer**](https://github.com/Santheeppa/FeelFusion-Brand_Sentiment_Analyzer) – Analyzed customer sentiment from reviews to monitor brand perception.   
 
 ## 🚀 **Currently working on:** 
 - Deploying my end-to-end projects using **Streamlit**.  
