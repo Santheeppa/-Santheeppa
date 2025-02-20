@@ -9,7 +9,7 @@ An aspiring **Data Scientist** focused on transforming raw data into actionable 
  
 ## 🌐 **My Portfolio:**
 Check out my portfolio to explore my projects, skills, and certifications:  
-🔗 [**Santheeppa's Portfolio**](https://santheeppa.github.io/)
+🔗 [**Portfolio**](https://santheeppa.github.io/)
 
 
 ## 🔍 **Interests:**
