@@ -4,10 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=santheeppa&label=Profile%20views&color=0e75b6&style=flat" alt="santheeppa" />
 </p>
 
-## 💫 About Me:
+## 💫 **About Me:**
 An aspiring **Data Scientist** focused on transforming raw data into actionable insights. I specialize in machine learning, data visualization, and model deployment, with a passion for solving complex problems through data-driven approaches.
  
-## 🌐 **My Portfolio**
+## 🌐 **My Portfolio:**
 Check out my portfolio to explore my projects, skills, and certifications:  
 🔗 [**Santheeppa's Portfolio**](https://santheeppa.github.io/)
 
